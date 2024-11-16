@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\cocos2d-x-4.0\MadScientist\proj.win32\CMakeFiles\f0106061fcafabdb10afa0646c99f8cb\SYNC_RESOURCE-MadScientist.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\cocos2d-x-4.0\MadScientist\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\cocos2d-x-4.0\MadScientist\proj.win32\CMakeFiles\SYNC_RESOURCE-MadScientist" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{77EAEE5D-5B4B-37A1-92E2-7B1775CC2C2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
